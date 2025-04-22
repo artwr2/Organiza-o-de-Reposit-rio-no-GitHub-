@@ -1,0 +1,9 @@
+documentação comandos Git
+git init
+git config --global user.name "nome da pessoa"
+git config --global user.email emaildapessoa@xxxxxx.xxx
+git add .
+git commit -m "primeiro,segundo....commit"
+git branch -M main
+git remote add origin https.... link fornecido no github
+git push -u origin main
